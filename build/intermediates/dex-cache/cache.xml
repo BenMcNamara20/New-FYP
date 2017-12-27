@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\benmc\.android\build-cache\6212d1b36106f8e32604ec19daf4e1392a18337b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\benmc\AndroidStudioProjects\FYPapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_16664bf7d19f352291c0e3c6bc8a1269c24d1bbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\benmc\.android\build-cache\3966bcce88943aa085dfb9cbd520b2ff1dceb683\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\benmc\AndroidStudioProjects\FYPapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d94c04aa135cb3adb2760a0beb2cea858233d110\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\benmc\.android\build-cache\bd452bdb353698bb07d3fd7a52ee864211282897\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\benmc\AndroidStudioProjects\FYPapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a6ca00e21676e876ef79074e1e421e6461a37eb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\benmc\.android\build-cache\5cce89218bad09a07f7cef0fb7d4c0a428ad3d87\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\benmc\AndroidStudioProjects\FYPapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df9043083288ff5897987f15187288c816043bdf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\benmc\.android\build-cache\59f20134c5d13288f50fe4ee0c45945c41653f22\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\benmc\AndroidStudioProjects\FYPapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2a994fff72aaf0c0b310c20abab791714477d09e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\benmc\.android\build-cache\3f04cfabf11073bcf84fa63de6ce9104642e5d60\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\benmc\AndroidStudioProjects\FYPapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a25e8c26d7b471aa4dad7f4b400476cedbb6d44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\benmc\AndroidStudioProjects\FYPapplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\benmc\AndroidStudioProjects\FYPapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a90549a0e60887229c7bf47c550074c6393bef49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\benmc\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\benmc\AndroidStudioProjects\FYPapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_11376c8cd036ae5b3ab6ab2d0d295e6775cd6e00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\benmc\.android\build-cache\1153ce7ec1060cd0b45d62989be90530eb8a9d94\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\benmc\AndroidStudioProjects\FYPapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_861516f2371d02e6c392bc22a7c88a8415ae2baf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\benmc\.android\build-cache\3afb0f055bbf83ae39b4c4a96e201a8135d85e69\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\benmc\AndroidStudioProjects\FYPapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0aac8e257e098672ff3178871565aae923696d0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\benmc\.android\build-cache\766bfbfb844b5307c9f87340474181a934552ce0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\benmc\AndroidStudioProjects\FYPapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c59fe35e3b7f6a9d4e6e8f5c21749b31107754b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\benmc\.android\build-cache\3a38ba5240a97984dee29860670c5aa2a96a6fa7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\benmc\AndroidStudioProjects\FYPapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3320e2dd125d91aca08177eb81b9b422ddf3b401\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\benmc\.android\build-cache\a70d89237e44f97970c4c28eb429b04e1b2149a7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\benmc\AndroidStudioProjects\FYPapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7dfca746086848db640264993f5c0fefaf42dfc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\benmc\AndroidStudioProjects\FYPapplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="839a02586a2840b197c13d1aee3cce7e4d343deb">
+        <dex dex="C:\Users\benmc\AndroidStudioProjects\FYPapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7d840238fd0564c154b338524e633694a45868ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\benmc\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\benmc\AndroidStudioProjects\FYPapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_6bf4ef1dd7729d79eb76bada19d85303c4e43192\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\benmc\.android\build-cache\3891aed54a06dc89964dfda200339ef53ba5fe05\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\benmc\AndroidStudioProjects\FYPapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_717f659dc401667f2ce2cdedd280bf17d3c30684\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\benmc\.android\build-cache\855a722a0da8d0eca84acf1e7eed4e345780e0ba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\benmc\AndroidStudioProjects\FYPapplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12a6d6f9c81a319d062e5f3eb6a6cd5447d853bd\classes.dex" />
+    </item>
+
+</items>
